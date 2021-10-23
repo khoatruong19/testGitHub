@@ -1,0 +1,42 @@
+.footer{
+    position: absolute;
+    bottom: 0;
+    width:100%;
+    background-color: rgba(205,133,63,0.7);
+    padding: 1rem;
+}
+
+.footer h2{
+    text-align: center;
+    color:#FAEBD7;
+}
+
+.info{
+    position: relative;
+    width: 100%;
+    text-align: center;
+    padding: 0 45%;
+}
+
+.info p{
+    margin-top: 2px;
+    font-weight: bold;
+    font-size: 1.2rem;
+    color: (255,165,0) ;	
+}
+
+.social-link{
+    margin-top: 0.5rem;
+    display: flex;
+    list-style: none;
+    position: relative;
+    align-items: center;
+    justify-content: space-around;
+}
+
+
+.icon{
+    cursor: pointer;
+    text-decoration: none;
+    color:#D2691E;
+}
